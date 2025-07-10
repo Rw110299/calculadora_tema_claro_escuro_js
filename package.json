@@ -1,0 +1,29 @@
+{
+  "name": "calculadora_tema_claro_escuro_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "live-server web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rw110299/calculadora_tema_claro_escuro_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rw110299/calculadora_tema_claro_escuro_js/issues"
+  },
+  "homepage": "https://github.com/Rw110299/calculadora_tema_claro_escuro_js#readme",
+  "devDependencies": {
+    "jest": "^30.0.4",
+    "jest-environment-jsdom": "^30.0.4"
+  }
+}
